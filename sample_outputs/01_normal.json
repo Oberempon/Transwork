@@ -1,0 +1,11 @@
+{
+  "customer_name": "John Mensah",
+  "issue": "Delayed delivery and lack of communication regarding booking TW-20451.",
+  "category": "Complaint",
+  "urgency": "Medium",
+  "recommended_action": "Check the status of booking TW-20451 with the logistics team and contact the customer with an update.",
+  "missing_information": [],
+  "confidence": "High",
+  "human_review_required": false,
+  "review_reasons": []
+}

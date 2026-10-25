@@ -1,0 +1,13 @@
+{
+  "customer_name": "Adwoa Boateng",
+  "issue": "Truck missing for October delivery, overcharged invoices, and damaged goods.",
+  "category": "Complaint",
+  "urgency": "High",
+  "recommended_action": "Contact Adwoa Boateng immediately regarding the October delivery date, billing dispute, and damaged goods.",
+  "missing_information": [],
+  "confidence": "High",
+  "human_review_required": true,
+  "review_reasons": [
+    "High urgency case"
+  ]
+}

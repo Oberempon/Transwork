@@ -1,0 +1,17 @@
+{
+  "customer_name": "kwame",
+  "issue": "Truck hasn't arrived since Monday, goods are spoiling.",
+  "category": "Complaint",
+  "urgency": "High",
+  "recommended_action": "Contact Kwame immediately to check the truck's status and arrange urgent delivery.",
+  "missing_information": [
+    "truck number",
+    "delivery reference or tracking number"
+  ],
+  "confidence": "High",
+  "human_review_required": true,
+  "review_reasons": [
+    "High urgency case",
+    "Information is missing"
+  ]
+}

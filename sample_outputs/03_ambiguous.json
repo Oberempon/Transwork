@@ -1,0 +1,16 @@
+{
+  "customer_name": "Esi",
+  "issue": "Previous issue has not been resolved.",
+  "category": "Complaint",
+  "urgency": "Medium",
+  "recommended_action": "Check previous support tickets for customer Esi to identify the unresolved issue.",
+  "missing_information": [
+    "ticket number",
+    "details of the unresolved issue"
+  ],
+  "confidence": "Medium",
+  "human_review_required": true,
+  "review_reasons": [
+    "Information is missing"
+  ]
+}

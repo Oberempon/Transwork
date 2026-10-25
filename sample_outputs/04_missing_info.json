@@ -1,0 +1,18 @@
+{
+  "customer_name": null,
+  "issue": "Charged twice for the same service and wants a refund.",
+  "category": "Billing",
+  "urgency": "High",
+  "recommended_action": "Verify the double charge on the customer's account and initiate a refund.",
+  "missing_information": [
+    "account number",
+    "date of the transaction"
+  ],
+  "confidence": "High",
+  "human_review_required": true,
+  "review_reasons": [
+    "High urgency case",
+    "No customer name found",
+    "Information is missing"
+  ]
+}

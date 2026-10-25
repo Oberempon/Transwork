@@ -1,0 +1,14 @@
+{
+  "customer_name": null,
+  "issue": "Asking for a jollof recipe and football match prediction.",
+  "category": "Other",
+  "urgency": "Low",
+  "recommended_action": "Ignore or close the ticket as it is unrelated to company services.",
+  "missing_information": [],
+  "confidence": "High",
+  "human_review_required": true,
+  "review_reasons": [
+    "No customer name found",
+    "Not a clear customer enquiry"
+  ]
+}
